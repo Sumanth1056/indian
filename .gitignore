@@ -1,0 +1,39 @@
+
+# Node and React
+node_modules/
+build/
+dist/
+.env
+.env.local
+.env.development
+.env.test
+.env.production
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+package-lock.json
+pnpm-lock.yaml
+# macOS
+.DS_Store
+# Windows
+Thumbs.db
+# Logs
+logs/
+*.log
+coverage/
+# Editor directories and files
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+# misc
+*.tgz
+.cache/
+
+# Local certificate files
+certs/
+
+# OneDrive temp files
+~$*
